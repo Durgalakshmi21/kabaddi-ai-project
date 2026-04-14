@@ -1,0 +1,20 @@
+Kabaddi Commentary Dataset
+
+Total Clips: 8002
+Clip Duration: 20 seconds each
+Resolution: 1920x1080
+Frame Rate: 30 FPS
+
+Dataset Format:
+- Video clips stored in 'clips' folder
+- Metadata stored in dataset_metadata.csv (Excel format)
+
+Metadata contains:
+- Video name (clip ID)
+- Start frame / end frame
+- Duration
+- Resolution
+- FPS
+
+Purpose:
+Used for action recognition and AI-based commentary generation in Kabaddi matches
